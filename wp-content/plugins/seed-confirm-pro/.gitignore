@@ -1,0 +1,9 @@
+
+languages/.DS_Store
+
+*.po~
+
+*.pot~
+
+.DS_Store
+.vscode/launch.json
